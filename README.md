@@ -8,3 +8,7 @@ A simple cutlery app ui.
 # cart page
 ![cart](https://user-images.githubusercontent.com/124202145/230168754-7911945c-bf79-4be6-8a0e-45806576aadd.png)
 
+
+# successfully added to cart alertDialog
+![add](https://user-images.githubusercontent.com/124202145/230168959-93f90e49-0a9b-4d02-9458-bfc4d575c658.png)
+
